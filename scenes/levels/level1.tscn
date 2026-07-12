@@ -472,5 +472,5 @@ tile_map_data = PackedByteArray("AAAAAAAAAAABAAQAAAAAAAEAAAABAAUAAAABAAAAAAACAAQ
 tile_set = SubResource("TileSet_wp5od")
 
 [node name="Player" parent="." unique_id=1418193285 instance=ExtResource("3_dd0lh")]
-position = Vector2(134, 588)
+position = Vector2(129, 615)
 scale = Vector2(2, 2)
